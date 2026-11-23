@@ -1,0 +1,21 @@
+{
+    "version":  "1.7.15",
+    "update_type":  "zip",
+    "download_url":  "https://github.com/Trung66/mxh-auto-tool-releases/releases/download/v1.7.15/MXH_Auto_v1.7.15.zip",
+    "sha256":  "668A2DB3E8EC95A9344A2B27279DDF7F6B66E819BF59E2DBBE4612FF3114FBBA",
+    "package_exe_version":  "1.7.15.0",
+    "package_exe_sha256":  "A9A47A9077E4FC47AA018F0ED406EEBA59DD2DBE89C9138EE534C4EBC44F3707",
+    "changelog":  "MXH STUDIO 1.7.15. Small Update is the default one-click package. The matching Large Installer is published beside it.",
+    "small_update":  {
+                         "update_type":  "zip",
+                         "download_url":  "https://github.com/Trung66/mxh-auto-tool-releases/releases/download/v1.7.15/MXH_Auto_v1.7.15.zip",
+                         "sha256":  "668A2DB3E8EC95A9344A2B27279DDF7F6B66E819BF59E2DBBE4612FF3114FBBA",
+                         "package_exe_sha256":  "A9A47A9077E4FC47AA018F0ED406EEBA59DD2DBE89C9138EE534C4EBC44F3707"
+                     },
+    "large_update":  {
+                         "update_type":  "installer",
+                         "download_url":  "https://github.com/Trung66/mxh-auto-tool-releases/releases/download/v1.7.15/MXH_AUTO_Setup_v1.7.15.exe",
+                         "sha256":  "44795980DD7B1D3CA7BF39D4E65ECBD76A552CAB26C391B7F49DC09D14A471A9",
+                         "package_exe_sha256":  "A9A47A9077E4FC47AA018F0ED406EEBA59DD2DBE89C9138EE534C4EBC44F3707"
+                     }
+}
