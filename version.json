@@ -1,23 +1,23 @@
 {
-    "version":  "1.7.17",
-    "update_type":  "zip",
-    "download_url":  "https://github.com/Trung66/mxh-auto-tool-releases/releases/download/v1.7.17/MXH_Auto_v1.7.17.zip",
-    "sha256":  "CEB1466DC61EB5879BC50DA2D637B89EE5FF27E315A4CBB6CE87A5649A001A69",
-    "package_exe_version":  "1.7.17.0",
-    "package_exe_sha256":  "17DD87CE62F765221257C71C76CE17F52071AC5EDB2C3377446D4DB6227AD394",
-    "changelog":  "MXH STUDIO 1.7.17. Delete Channel fix and verified update package. Small Update is the default one-click package. The matching Large Installer is published beside it.",
+    "version":  "1.7.18",
+    "update_type":  "installer",
+    "download_url":  "https://github.com/Trung66/mxh-auto-tool-releases/releases/download/v1.7.18/MXH_AUTO_Setup_v1.7.18.exe",
+    "sha256":  "06C096EF0A8E06A590486D8A0DE2CE2709C81DDB90722B6C9DBA18078F3049F9",
+    "package_exe_version":  "1.7.18.0",
+    "package_exe_sha256":  "406DB385E2D8FE3BD79F33ACDF216F35182FA2DEC8FC8702814767AA9909C6EF",
+    "changelog":  "Fixes Delete Channel with protected legacy BM data. This update uses the Large Installer for compatibility with previous clients. Small Update ZIP is also provided.",
     "small_update":  {
                          "update_type":  "zip",
-                         "download_url":  "https://github.com/Trung66/mxh-auto-tool-releases/releases/download/v1.7.17/MXH_Auto_v1.7.17.zip",
-                         "sha256":  "CEB1466DC61EB5879BC50DA2D637B89EE5FF27E315A4CBB6CE87A5649A001A69",
-                         "package_exe_version":  "1.7.17.0",
-                         "package_exe_sha256":  "17DD87CE62F765221257C71C76CE17F52071AC5EDB2C3377446D4DB6227AD394"
+                         "download_url":  "https://github.com/Trung66/mxh-auto-tool-releases/releases/download/v1.7.18/MXH_Auto_v1.7.18.zip",
+                         "sha256":  "F587F51017B4D7F91E0E2514E95A34C47D4C783B2596175D5BC17C7FC564A732",
+                         "package_exe_version":  "1.7.18.0",
+                         "package_exe_sha256":  "406DB385E2D8FE3BD79F33ACDF216F35182FA2DEC8FC8702814767AA9909C6EF"
                      },
     "large_update":  {
                          "update_type":  "installer",
-                         "download_url":  "https://github.com/Trung66/mxh-auto-tool-releases/releases/download/v1.7.17/MXH_AUTO_Setup_v1.7.17.exe",
-                         "sha256":  "AFD194801F14762560C7B0A6B85F89C24A7407A9D158392D15136B8D405B51A3",
-                         "package_exe_version":  "1.7.17.0",
-                         "package_exe_sha256":  "17DD87CE62F765221257C71C76CE17F52071AC5EDB2C3377446D4DB6227AD394"
+                         "download_url":  "https://github.com/Trung66/mxh-auto-tool-releases/releases/download/v1.7.18/MXH_AUTO_Setup_v1.7.18.exe",
+                         "sha256":  "06C096EF0A8E06A590486D8A0DE2CE2709C81DDB90722B6C9DBA18078F3049F9",
+                         "package_exe_version":  "1.7.18.0",
+                         "package_exe_sha256":  "406DB385E2D8FE3BD79F33ACDF216F35182FA2DEC8FC8702814767AA9909C6EF"
                      }
 }
